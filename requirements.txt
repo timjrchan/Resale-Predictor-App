@@ -1,8 +1,5 @@
 streamlit
 pandas
 scikit-learn
-seaborn
-matplotlib.pyplot
-gspread
 oauth2client
 streamlit_autorefresh
