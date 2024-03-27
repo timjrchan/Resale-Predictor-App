@@ -1,6 +1,5 @@
 streamlit
 pandas
-pickle
 scikit-learn
 oauth2client
 streamlit_autorefresh
